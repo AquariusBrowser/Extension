@@ -1,0 +1,2 @@
+# Extension
+Aquarius Browser Extension
